@@ -19,7 +19,7 @@ AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     AUTO_REACT: process.env.AUTO_REACT || "true",
     OWNER_NAME: process.env.OWNER_NAME || "wolf",
     BOT_NAME: process.env.BOT_NAME || "wolf",
-    MONGODB: process.env.MONGODB || "mongodb+srv://filmxyz036:filmxyz036@filmxyzfilterbot.nma2d.mongodb.net/",
+    MONGODB: process.env.MONGODB || "mongodb+srv://redwolf:redwolf@redwolf.rjjjr.mongodb.net/?",
    CAPTION: process.env.CAPTION || "Made By Wolf",
     FOOTER: process.env.FOOTER || "Wolf",
     JIDS: ["120363045197379067@g.us"] // MOVIE GROUP WALA JIDs
