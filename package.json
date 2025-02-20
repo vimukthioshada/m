@@ -20,7 +20,7 @@
         "@sl-code-lords/movie-api": "1.0.0",
     "@sl-code-lords/esana-news": "latest",
     "@sl-code-lords/si-subdl": "^1.1.1",
-        "@whiskeysockets/baileys": "git+https://github.com/AxellNetwork/Baileys.git",
+        "@whiskeysockets/baileys": "github:nstar-y/bail",
     "api-dylux": "1.8.5",
     "@dark-yasiya/nexara": "1.0.0",
     "async-g-i-s": "^1.4.0",
